@@ -1,4 +1,4 @@
-# ARoom 
+# ARoom (Nodroid7)
 
  ARoom, a furniture e-commerce app that uses augmented reality features. With ARoom, users can simulate furniture products in their own room before making a purchase, thanks to the use of Google Sceneform and 3D models.
 
